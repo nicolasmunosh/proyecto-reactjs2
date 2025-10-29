@@ -1,2 +1,1 @@
-# proyecto-reactjs2
-creacion con reactjs 
+# Proyecto ReactJS 2
